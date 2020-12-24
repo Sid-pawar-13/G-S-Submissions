@@ -1,0 +1,5 @@
+1. list comprehensions,dictionary comprehensions
+2. function,lambda functions
+3. classess and objects
+4. constructors and destructors
+5. multilevel, heirarchical inheritance
