@@ -57,7 +57,7 @@ def mixerUnpause():
 def mixerStop():
     mixer.music.stop()
 
-# GUI init
+# GUI initialization
 root = Tk()
 root.geometry("400x250")
 root.resizable(0,0)
