@@ -42,7 +42,7 @@ def userInput():
     u = 1
     while True:
         try:
-            u = int(input("Enter position [0-9] :"))
+            u = int(input("Enter position [0-8] :"))
             if validMove(u):
                 break
         except:
